@@ -14,16 +14,6 @@ I'm a results-driven Full Stack Developer specializing in Django and Django Rest
 - 🛠️ Proficient in modular and reusable code, build tools, and package managers.
 - 🧠 Studied Computational Thinking, Operating Systems, Linux, and Version Control (Git & GitHub).
 
-## 🛠️ Technical Skills
-
-- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, TailwindCSS, Bootstrap
-- **Backend:** Python, Django, Flask, FastAPI, JAVA Spring, .NET Core
-- **Tools:** Git, GitHub, NPM, Agile methodologies
-- **Other:** Linux, SQL, API Development, DJANGO-REST, OOP, Context API, CRUD Operations, Xamarin, Data Science, Machine Learning, C++, C, QT6, TCP/IP Socket, Computer Networking, Computer Architecture, Solidity, Blockchain Development
-
-Let's build something amazing together! 🌟
-
-
 
 <!--
 **ekinsipahi/ekinsipahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
